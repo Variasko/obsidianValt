@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8f6330edce0eed8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b290ba2b9c8e31c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b26738f252a3f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4df7447afc0ed4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74087cd76c085c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "570f2e8b0f76ce6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65ff873e9dbc44e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2a43962ab0f23f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "64daae48f271442b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b07d4668d871706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2d6ad6ee7ca09dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06be06c4ffba5783",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efd10d0b0ac8435d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e8f8e79cbf2830c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md"
+              }
+            }
+          },
+          {
+            "id": "e059f5ae963c4c7e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c05a2690cf00e2df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4b26738f252a3f63",
+  "lastOpenFiles": [
+    "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
+    "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
+    "Кодология/Python2/Игры tkinter",
+    "Типы диаграмм.md",
+    "Programming/Diagramm/Блок-схема.md",
+    "Programming/Diagramm/ER.md",
+    "Programming/Diagramm/Последовательности.md",
+    "Programming/Diagramm/Activity.md",
+    "Programming/Diagramm",
+    "_Assets/Resourse/Pasted image 20241018001507.png",
+    "_Assets/Resourse/Pasted image 20241018001442.png",
+    "_Assets/Resourse/Pasted image 20241018001415.png",
+    "_Assets/Resourse/Pasted image 20241018001252.png",
+    "Home.md",
+    "Шарага/ДО/Отчёт сис. прог 17.10.2024.md",
+    "Education/Goal/2024.md",
+    "_Assets/_Templates/RAMTemplate.md",
+    "Excalidraw/Drawing 2024-10-17 23.19.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-17 22.46.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-17 22.45.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-16 23.27.06.excalidraw.md",
+    "Виш-лист 2024-2025.md",
+    "Excalidraw",
+    "Шарага/курсач план доделки.md",
+    "_Assets/Resourse/Pasted image 20241016210539.png",
+    "Education/Book/2024/Принцесса ветра и мести.md",
+    "_Assets/Resourse/Pasted image 20241016205509.png",
+    "Education/Book/2024/Король льда и крови.md",
+    "Education/Book/2024/Йеллоуфэйс.md",
+    "Programming/C Sharp/Без названия.md",
+    "Programming/Python/Чек-лист по библиотекам.md",
+    "Programming/Web",
+    "Шарага/ДО/24.09.24/Недоделанное ДО конспект.md",
+    "Кодология/Python2/Боты в тг(telebot)/Основы создания ботов.md",
+    "_Assets/_Templates/PlannerTemplate.md",
+    "Daly/10-11-24.md",
+    "Кодология/Python2/Боты в тг(telebot)",
+    "_Assets/Resourse/Пищеблок 1.png",
+    "Programming/C Sharp",
+    "Programming/Python",
+    "Programming",
+    "Кодология/PythonStart/3 Python",
+    "Кодология/PythonStart/2 PythonBase",
+    "_Assets/Resourse/Чистая архитектура.png",
+    "_Assets/Resourse/Великая.png",
+    "_Assets/Фото/Pasted image 20241009172552.png"
+  ]
+}
