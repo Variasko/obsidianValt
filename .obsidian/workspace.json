@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b290ba2b9c8e31c2",
+        "id": "a6d7adf9db32e7e6",
         "type": "tabs",
         "children": [
           {
-            "id": "4b26738f252a3f63",
+            "id": "d70e966033d5bdb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5110321044922
   },
   "right": {
     "id": "64daae48f271442b",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,51 +158,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b26738f252a3f63",
+  "active": "d70e966033d5bdb3",
   "lastOpenFiles": [
     "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
-    "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
-    "Кодология/Python2/Игры tkinter",
-    "Типы диаграмм.md",
-    "Programming/Diagramm/Блок-схема.md",
-    "Programming/Diagramm/ER.md",
-    "Programming/Diagramm/Последовательности.md",
-    "Programming/Diagramm/Activity.md",
-    "Programming/Diagramm",
+    "Programming/Python/Анонимные функции.md",
+    "Programming/Python/Двумерные массивы.md",
+    "Кодология/Python2/Без названия.md",
+    "Кодология/Python2/Игры tkinter/Двумерные массивы.md",
+    "Кодология/PythonStart/Том и джерри.md",
+    "Кодология/Main.md",
+    "Programming/Собесы/Python/Main.md",
+    "Programming/Собесы/CSharp/Main.md",
+    "Programming/Собесы/Python",
+    "Programming/Собесы/Python.md",
+    "Programming/Собесы/Общая инфа",
+    "Programming/Собесы/CSharp",
+    "Programming/С++/While.md",
+    "Programming/С++/Ветвление if swich.md",
+    "Programming/С++/Основы.md",
+    "Programming/С++/Переменные.md",
+    "_Assets/_Templates/Template1.md",
+    "_Assets/_Templates/Template6(cpp).md",
+    "Home.md",
+    "Programming/Линксойд на минималках/Гайд по cmd.md",
+    "Programming/Собесы/CSharp/Сложные вопросы/4.md",
+    "Programming/Собесы/CSharp/Сложные вопросы/3.md",
+    "Programming/Собесы/CSharp/Сложные вопросы/2.md",
+    "Programming/Собесы/CSharp/Сложные вопросы/1.md",
+    "Programming/Собесы/CSharp/Сложные вопросы",
+    "Programming/Собесы/CSharp/Общяя инфа/Юниты.md",
+    "Programming/Собесы/CSharp/Общяя инфа/Многопоточность.md",
+    "Programming/Собесы/CSharp/Общяя инфа/Асинхронное программирование.md",
+    "Programming/Собесы/CSharp/Общяя инфа/Интерфейс.md",
+    "Programming/Собесы/CSharp/Общяя инфа",
+    "Собесы",
+    "Programming/Собесы/Общая инфа/SOLID",
+    "Programming/Собесы/Общая инфа/ООП",
+    "Programming/Собесы",
+    "Programming/Java",
     "_Assets/Resourse/Pasted image 20241018001507.png",
     "_Assets/Resourse/Pasted image 20241018001442.png",
     "_Assets/Resourse/Pasted image 20241018001415.png",
     "_Assets/Resourse/Pasted image 20241018001252.png",
-    "Home.md",
-    "Шарага/ДО/Отчёт сис. прог 17.10.2024.md",
-    "Education/Goal/2024.md",
-    "_Assets/_Templates/RAMTemplate.md",
-    "Excalidraw/Drawing 2024-10-17 23.19.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-17 22.46.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-17 22.45.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-16 23.27.06.excalidraw.md",
-    "Виш-лист 2024-2025.md",
-    "Excalidraw",
-    "Шарага/курсач план доделки.md",
     "_Assets/Resourse/Pasted image 20241016210539.png",
-    "Education/Book/2024/Принцесса ветра и мести.md",
     "_Assets/Resourse/Pasted image 20241016205509.png",
-    "Education/Book/2024/Король льда и крови.md",
-    "Education/Book/2024/Йеллоуфэйс.md",
-    "Programming/C Sharp/Без названия.md",
-    "Programming/Python/Чек-лист по библиотекам.md",
-    "Programming/Web",
-    "Шарага/ДО/24.09.24/Недоделанное ДО конспект.md",
-    "Кодология/Python2/Боты в тг(telebot)/Основы создания ботов.md",
-    "_Assets/_Templates/PlannerTemplate.md",
-    "Daly/10-11-24.md",
-    "Кодология/Python2/Боты в тг(telebot)",
     "_Assets/Resourse/Пищеблок 1.png",
-    "Programming/C Sharp",
-    "Programming/Python",
-    "Programming",
-    "Кодология/PythonStart/3 Python",
-    "Кодология/PythonStart/2 PythonBase",
     "_Assets/Resourse/Чистая архитектура.png",
     "_Assets/Resourse/Великая.png",
     "_Assets/Фото/Pasted image 20241009172552.png"

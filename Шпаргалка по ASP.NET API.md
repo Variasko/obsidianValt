@@ -26,3 +26,15 @@
 Пример:
 ![[Пример архитектуры на классах.png]]
 
+Модели в виде
+```c#
+class User {
+	public int Id {get; set;}
+	public string Name {get; set;}
+	public int StatusId {get;set;}
+
+	public virtual Status Status = new Status(); //многие к одному ТУТ
+	public ICollection<Order> Orders = new List<Order>(); //один ко многим СЮДА
+}
+```
+

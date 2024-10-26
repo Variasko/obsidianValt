@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":red_circle:",
+    ":negative_squared_cross_mark:",
+    ":heavy_check_mark:"
+  ]
+}

@@ -8,14 +8,6 @@
       "key": "\\"
     }
   ],
-  "editor:insert-horizontal-rule": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "-"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -23,15 +15,6 @@
         "Shift"
       ],
       "key": "P"
-    }
-  ],
-  "insert-current-date": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
     }
   ],
   "insert-current-time": [
@@ -59,6 +42,16 @@
         "Alt"
       ],
       "key": "C"
+    }
+  ],
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
     }
   ]
 }

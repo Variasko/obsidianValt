@@ -10,6 +10,8 @@
 | ***Синтаксис Обсидиан*** | [Синтаксис](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) |
 |  ***Гайд на DataView***  |  [Гайд](https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/)   |
 |      Типы диаграмм       |                                  [[Типы диаграмм]]                                   |
+|       Для собесов        |                          [[Programming/Собесы/CSharp/Main\|Main]]                           |
+|                          |                                                                                      |
 
 
 ```dataviewjs
