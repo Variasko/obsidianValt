@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодология/Main.md",
+                "file": "Кодология/Python2/Объяснение что такое классы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодология/Main.md",
+                "file": "Кодология/Python2/Объяснение что такое классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодология/Main.md",
+                "file": "Кодология/Python2/Объяснение что такое классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кодология/Main.md"
+                "file": "Кодология/Python2/Объяснение что такое классы.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "b4a4a48e640c9002",
   "lastOpenFiles": [
+    "Кодология/Main.md",
+    "Кодология/Python2/Объяснение что такое классы.md",
     "_Assets/Resourse/Pasted image 20241104135632.png",
     "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
-    "Кодология/Main.md",
     "Про яндера.md",
     "_Assets/Resourse/Pasted image 20241029060052.png",
     "_Assets/Resourse/Pasted image 20241029055922.png",
@@ -183,11 +184,9 @@
     "Excalidraw/Drawing 2024-10-29 05.27.58.excalidraw.md",
     "_Assets/Resourse/image_0.png",
     "Excalidraw/Drawing 2024-10-29 05.13.11.excalidraw.md",
-    "_Assets/Resourse/image.png",
     "Excalidraw",
     "Programming/Python/Анонимные функции.md",
     "Programming/Python/Двумерные массивы.md",
-    "Кодология/Python2/Без названия.md",
     "Кодология/Python2/Игры tkinter/Двумерные массивы.md",
     "Кодология/PythonStart/Том и джерри.md",
     "Programming/Собесы/Python/Main.md",
