@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a6d7adf9db32e7e6",
+        "id": "dfafd5f4bffecc8d",
         "type": "tabs",
         "children": [
           {
-            "id": "d70e966033d5bdb3",
+            "id": "b4a4a48e640c9002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Кодология/Main.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5110321044922
+    "width": 288.5110321044922
   },
   "right": {
     "id": "64daae48f271442b",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Кодология/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Кодология/Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Кодология/Main.md"
+              }
             }
           },
           {
@@ -158,15 +166,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d70e966033d5bdb3",
+  "active": "b4a4a48e640c9002",
   "lastOpenFiles": [
+    "_Assets/Resourse/Pasted image 20241104135632.png",
     "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
+    "Кодология/Main.md",
+    "Про яндера.md",
+    "_Assets/Resourse/Pasted image 20241029060052.png",
+    "_Assets/Resourse/Pasted image 20241029055922.png",
+    "_Assets/Resourse/Pasted image 20241029055646.png",
+    "_Assets/Resourse/Pasted image 20241029055549.png",
+    "_Assets/Resourse/Pasted image 20241029055303.png",
+    "_Assets/Resourse/Pasted image 20241029055202.png",
+    "_Assets/Resourse/Pasted image 20241029054659.png",
+    "_Assets/Resourse/Pasted image 20241029053235.png",
+    "Excalidraw/Drawing 2024-10-29 05.27.58.excalidraw.md",
+    "_Assets/Resourse/image_0.png",
+    "Excalidraw/Drawing 2024-10-29 05.13.11.excalidraw.md",
+    "_Assets/Resourse/image.png",
+    "Excalidraw",
     "Programming/Python/Анонимные функции.md",
     "Programming/Python/Двумерные массивы.md",
     "Кодология/Python2/Без названия.md",
     "Кодология/Python2/Игры tkinter/Двумерные массивы.md",
     "Кодология/PythonStart/Том и джерри.md",
-    "Кодология/Main.md",
     "Programming/Собесы/Python/Main.md",
     "Programming/Собесы/CSharp/Main.md",
     "Programming/Собесы/Python",
@@ -186,25 +209,10 @@
     "Programming/Собесы/CSharp/Сложные вопросы/2.md",
     "Programming/Собесы/CSharp/Сложные вопросы/1.md",
     "Programming/Собесы/CSharp/Сложные вопросы",
-    "Programming/Собесы/CSharp/Общяя инфа/Юниты.md",
-    "Programming/Собесы/CSharp/Общяя инфа/Многопоточность.md",
-    "Programming/Собесы/CSharp/Общяя инфа/Асинхронное программирование.md",
-    "Programming/Собесы/CSharp/Общяя инфа/Интерфейс.md",
     "Programming/Собесы/CSharp/Общяя инфа",
     "Собесы",
     "Programming/Собесы/Общая инфа/SOLID",
     "Programming/Собесы/Общая инфа/ООП",
-    "Programming/Собесы",
-    "Programming/Java",
-    "_Assets/Resourse/Pasted image 20241018001507.png",
-    "_Assets/Resourse/Pasted image 20241018001442.png",
-    "_Assets/Resourse/Pasted image 20241018001415.png",
-    "_Assets/Resourse/Pasted image 20241018001252.png",
-    "_Assets/Resourse/Pasted image 20241016210539.png",
-    "_Assets/Resourse/Pasted image 20241016205509.png",
-    "_Assets/Resourse/Пищеблок 1.png",
-    "_Assets/Resourse/Чистая архитектура.png",
-    "_Assets/Resourse/Великая.png",
-    "_Assets/Фото/Pasted image 20241009172552.png"
+    "Programming/Собесы"
   ]
 }
