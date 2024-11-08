@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfafd5f4bffecc8d",
+        "id": "deeb691059760c56",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a4a48e640c9002",
+            "id": "83207701493768c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодология/Python2/Объяснение что такое классы.md",
+                "file": "Programming/Python/Основы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодология/Python2/Объяснение что такое классы.md",
+                "file": "Programming/Python/Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодология/Python2/Объяснение что такое классы.md",
+                "file": "Programming/Python/Основы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кодология/Python2/Объяснение что такое классы.md"
+                "file": "Programming/Python/Основы.md"
               }
             }
           },
@@ -166,9 +166,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4a4a48e640c9002",
+  "active": "83207701493768c0",
   "lastOpenFiles": [
+    "Кодология/Python2/PyGame/Основы.md",
     "Кодология/Main.md",
+    "Кодология/Python2/PyGame",
     "Кодология/Python2/Объяснение что такое классы.md",
     "_Assets/Resourse/Pasted image 20241104135632.png",
     "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
@@ -211,7 +213,6 @@
     "Programming/Собесы/CSharp/Общяя инфа",
     "Собесы",
     "Programming/Собесы/Общая инфа/SOLID",
-    "Programming/Собесы/Общая инфа/ООП",
-    "Programming/Собесы"
+    "Programming/Собесы/Общая инфа/ООП"
   ]
 }
