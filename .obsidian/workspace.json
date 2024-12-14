@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5fd28faa226992d1",
+        "id": "6c6b5592ebf5e32c",
         "type": "tabs",
         "children": [
           {
-            "id": "55308f9d47531f9e",
+            "id": "b0d14e3f5b3a7774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодология/Python2/PyGame/Собери очки.md",
+                "file": "Кодология/Python2/Задачки/№1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодология/Python2/PyGame/Собери очки.md",
+                "file": "Кодология/Python2/Задачки/№1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодология/Python2/PyGame/Собери очки.md",
+                "file": "Кодология/Python2/Задачки/№1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кодология/Python2/PyGame/Собери очки.md"
+                "file": "Кодология/Python2/Задачки/№1.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,53 +167,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55308f9d47531f9e",
+  "active": "b0d14e3f5b3a7774",
   "lastOpenFiles": [
+    "Кодология/PythonStart/Задачки на отработку циклов и ветвления.md",
+    "Кодология/Python2/Задачки/№1.md",
+    "Кодология/Python2/Задачки",
+    "Кодология/Python2/tkinter/Основы.md",
+    "Кодология/Python2/tkinter",
+    "Шарага/Физра рефераты.md",
+    "Шарага/Диф. Зачёт Менеджемнет.md",
+    "Шарага/Дем/Тест-кейсы.md",
+    "Шарага/ДО/КУРСАЧ У ОСИНОЙ/Тест кейсф.md",
+    "_Assets/Resourse/Pasted image 20241208174343.png",
+    "_Assets/Resourse/Pasted image 20241208174239.png",
+    "Шарага/ДО/КУРСАЧ У ОСИНОЙ/Без названия.md",
+    "Шарага/ДО/КУРСАЧ У ОСИНОЙ",
     "Кодология/Python2/PyGame/Основы.md",
     "Виш-лист 2024-2025.md",
+    "_Assets/Resourse/Pasted image 20241205005859.png",
+    "Programming/Просто что-то инетерсное/QR-coding.md",
+    "_Assets/Resourse/Pasted image 20241203174833.png",
+    "_Assets/Resourse/Pasted image 20241203174705.png",
+    "_Assets/Resourse/Pasted image 20241203174522.png",
+    "_Assets/Resourse/Pasted image 20241203174410.png",
+    "_Assets/Resourse/Pasted image 20241203174256.png",
+    "Шарага/ДО/Системное программирование от 1.11.2025(дистант).md",
+    "Programming/Просто что-то инетерсное",
+    "Кодология/Main.md",
+    "Шарага/ОПД/Стартовый капитал.md",
+    "Шарага/ОПД",
+    "Шарага/Дем/Спецификация.md",
+    "Шарага/Дем",
     "Кодология/Python2/PyGame/Собери очки.md",
     "Programming/Python/Основы.md",
-    "Кодология/Main.md",
     "Кодология/Python2/PyGame",
     "Кодология/Python2/Объяснение что такое классы.md",
     "_Assets/Resourse/Pasted image 20241104135632.png",
     "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
     "Про яндера.md",
     "_Assets/Resourse/Pasted image 20241029060052.png",
-    "_Assets/Resourse/Pasted image 20241029055922.png",
-    "_Assets/Resourse/Pasted image 20241029055646.png",
-    "_Assets/Resourse/Pasted image 20241029055549.png",
-    "_Assets/Resourse/Pasted image 20241029055303.png",
-    "_Assets/Resourse/Pasted image 20241029055202.png",
-    "_Assets/Resourse/Pasted image 20241029054659.png",
-    "_Assets/Resourse/Pasted image 20241029053235.png",
     "Excalidraw/Drawing 2024-10-29 05.27.58.excalidraw.md",
-    "_Assets/Resourse/image_0.png",
     "Excalidraw/Drawing 2024-10-29 05.13.11.excalidraw.md",
     "Excalidraw",
     "Programming/Python/Анонимные функции.md",
     "Programming/Python/Двумерные массивы.md",
     "Кодология/Python2/Игры tkinter/Двумерные массивы.md",
     "Кодология/PythonStart/Том и джерри.md",
-    "Programming/Собесы/Python/Main.md",
-    "Programming/Собесы/CSharp/Main.md",
     "Programming/Собесы/Python",
-    "Programming/Собесы/Python.md",
-    "Programming/Собесы/Общая инфа",
-    "Programming/Собесы/CSharp",
-    "Programming/С++/While.md",
-    "Programming/С++/Ветвление if swich.md",
-    "Programming/С++/Основы.md",
-    "Programming/С++/Переменные.md",
-    "_Assets/_Templates/Template1.md",
-    "_Assets/_Templates/Template6(cpp).md",
-    "Home.md",
-    "Programming/Линксойд на минималках/Гайд по cmd.md",
-    "Programming/Собесы/CSharp/Сложные вопросы/4.md",
-    "Programming/Собесы/CSharp/Сложные вопросы",
-    "Programming/Собесы/CSharp/Общяя инфа",
-    "Собесы",
-    "Programming/Собесы/Общая инфа/SOLID",
-    "Programming/Собесы/Общая инфа/ООП"
+    "Programming/Собесы/Общая инфа"
   ]
 }
