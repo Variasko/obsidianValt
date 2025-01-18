@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c6b5592ebf5e32c",
+        "id": "cf0145678fad0558",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d14e3f5b3a7774",
+            "id": "d7c48523037787cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Кодология/Python2/Задачки/№1.md",
+                "file": "Кодология/Python2/Задание на самостоятельность.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Кодология/Python2/Задачки/№1.md",
+                "file": "Кодология/Python2/Задание на самостоятельность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Кодология/Python2/Задачки/№1.md",
+                "file": "Кодология/Python2/Задание на самостоятельность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Кодология/Python2/Задачки/№1.md"
+                "file": "Кодология/Python2/Задание на самостоятельность.md"
               }
             }
           },
@@ -167,12 +167,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0d14e3f5b3a7774",
+  "active": "d7c48523037787cf",
   "lastOpenFiles": [
-    "Кодология/PythonStart/Задачки на отработку циклов и ветвления.md",
-    "Кодология/Python2/Задачки/№1.md",
-    "Кодология/Python2/Задачки",
+    "Кодология/Main.md",
+    "Кодология/Python2/Задание на самостоятельность.md",
+    "Виш-лист 2024-2025.md",
+    "Шарага/Курсач/Попытка преобразования 1.md",
+    "Excalidraw/Drawing 2024-12-29 22.58.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-29 22.54.39.excalidraw.md",
+    "Шарага/Подготовка к экзамену ТРПО.md",
+    "Кодология/PythonStart/Повторение на последнем занятии (21.12).md",
     "Кодология/Python2/tkinter/Основы.md",
+    "Кодология/Python2/Задачки/№1.md",
+    "Кодология/PythonStart/Задачки на отработку циклов и ветвления.md",
+    "Кодология/Python2/Задачки",
     "Кодология/Python2/tkinter",
     "Шарага/Физра рефераты.md",
     "Шарага/Диф. Зачёт Менеджемнет.md",
@@ -183,7 +191,6 @@
     "Шарага/ДО/КУРСАЧ У ОСИНОЙ/Без названия.md",
     "Шарага/ДО/КУРСАЧ У ОСИНОЙ",
     "Кодология/Python2/PyGame/Основы.md",
-    "Виш-лист 2024-2025.md",
     "_Assets/Resourse/Pasted image 20241205005859.png",
     "Programming/Просто что-то инетерсное/QR-coding.md",
     "_Assets/Resourse/Pasted image 20241203174833.png",
@@ -193,7 +200,6 @@
     "_Assets/Resourse/Pasted image 20241203174256.png",
     "Шарага/ДО/Системное программирование от 1.11.2025(дистант).md",
     "Programming/Просто что-то инетерсное",
-    "Кодология/Main.md",
     "Шарага/ОПД/Стартовый капитал.md",
     "Шарага/ОПД",
     "Шарага/Дем/Спецификация.md",
@@ -206,13 +212,7 @@
     "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
     "Про яндера.md",
     "_Assets/Resourse/Pasted image 20241029060052.png",
-    "Excalidraw/Drawing 2024-10-29 05.27.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-29 05.13.11.excalidraw.md",
     "Excalidraw",
-    "Programming/Python/Анонимные функции.md",
-    "Programming/Python/Двумерные массивы.md",
-    "Кодология/Python2/Игры tkinter/Двумерные массивы.md",
-    "Кодология/PythonStart/Том и джерри.md",
     "Programming/Собесы/Python",
     "Programming/Собесы/Общая инфа"
   ]
