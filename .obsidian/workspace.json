@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e8a74f3fbc52b302",
+        "id": "04cbbf1abe6bcb7a",
         "type": "tabs",
         "children": [
           {
-            "id": "44a81e2510566265",
+            "id": "6620da560f769406",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Шарага Преподское/ИСП-322п/Проекты/Про банк.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Шарага Преподское/ИСП-322п/Проекты/Про банк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Шарага Преподское/ИСП-322п/Проекты/Про банк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Шарага Преподское/ИСП-322п/Проекты/Про банк.md"
+              }
             }
           },
           {
@@ -159,10 +167,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44a81e2510566265",
+  "active": "6620da560f769406",
   "lastOpenFiles": [
-    "Кодология/PythonStart/Урок по функциям.md",
+    "Шарага Преподское/ИСП-322п/Проекты/Про студентов.md",
+    "Шарага Преподское/ИСП-322п/Проекты/Про банк.md",
+    "Шарага Преподское/ИСП-322п/Проекты/Решения.md",
+    "Шарага Преподское/ИСП-322п/Проекты",
+    "Шарага Преподское/ИСП-322а/Контрольная 1-2 лекция.md",
+    "Шарага Преподское/ИСП-322п",
+    "Шарага Преподское/ИСП-322а/Лекция 2.md",
+    "Шарага Преподское/ИСП-322а/Лекция 1.md",
+    "Шарага Преподское/ИСП-322а/Лекция 4.md",
+    "Шарага Преподское/ИСП-322а/Лекция 3.md",
     "Кодология/Main.md",
+    "Шарага Преподское/ИСП-322а",
+    "Шарага Преподское",
+    "Кодология/PythonStart/Задачки на отработку циклов и ветвления.md",
+    "Кодология/PythonStart/1 PencilCode/Отдай колбасу.md",
+    "Кодология/Python2/Боты в тг(telebot)/Основы создания ботов.md",
+    "Кодология/Python2/Задачки/№1.md",
+    "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
+    "Кодология/Python2/PyGame/Собери очки.md",
+    "Кодология/Python2/PyGame/Основы.md",
+    "Кодология/Python2/tkinter/Основы.md",
+    "Кодология/Python2/Чек-лист по TKinter.md",
+    "Кодология/PythonStart/Урок по функциям.md",
     "Кодология/Python2/Задание на самостоятельность.md",
     "Виш-лист 2024-2025.md",
     "Шарага/Курсач/Попытка преобразования 1.md",
@@ -170,42 +199,21 @@
     "Excalidraw/Drawing 2024-12-29 22.54.39.excalidraw.md",
     "Шарага/Подготовка к экзамену ТРПО.md",
     "Кодология/PythonStart/Повторение на последнем занятии (21.12).md",
-    "Кодология/Python2/tkinter/Основы.md",
-    "Кодология/Python2/Задачки/№1.md",
-    "Кодология/PythonStart/Задачки на отработку циклов и ветвления.md",
     "Кодология/Python2/Задачки",
     "Кодология/Python2/tkinter",
-    "Шарага/Физра рефераты.md",
-    "Шарага/Диф. Зачёт Менеджемнет.md",
-    "Шарага/Дем/Тест-кейсы.md",
-    "Шарага/ДО/КУРСАЧ У ОСИНОЙ/Тест кейсф.md",
     "_Assets/Resourse/Pasted image 20241208174343.png",
     "_Assets/Resourse/Pasted image 20241208174239.png",
-    "Шарага/ДО/КУРСАЧ У ОСИНОЙ/Без названия.md",
     "Шарага/ДО/КУРСАЧ У ОСИНОЙ",
-    "Кодология/Python2/PyGame/Основы.md",
     "_Assets/Resourse/Pasted image 20241205005859.png",
-    "Programming/Просто что-то инетерсное/QR-coding.md",
     "_Assets/Resourse/Pasted image 20241203174833.png",
     "_Assets/Resourse/Pasted image 20241203174705.png",
     "_Assets/Resourse/Pasted image 20241203174522.png",
     "_Assets/Resourse/Pasted image 20241203174410.png",
     "_Assets/Resourse/Pasted image 20241203174256.png",
-    "Шарага/ДО/Системное программирование от 1.11.2025(дистант).md",
     "Programming/Просто что-то инетерсное",
-    "Шарага/ОПД/Стартовый капитал.md",
     "Шарага/ОПД",
-    "Шарага/Дем/Спецификация.md",
     "Шарага/Дем",
-    "Кодология/Python2/PyGame/Собери очки.md",
-    "Programming/Python/Основы.md",
-    "Кодология/Python2/PyGame",
-    "Кодология/Python2/Объяснение что такое классы.md",
     "_Assets/Resourse/Pasted image 20241104135632.png",
-    "Кодология/Python2/Игры tkinter/Крестики-нолики.md",
-    "_Assets/Resourse/Pasted image 20241029060052.png",
-    "Excalidraw",
-    "Programming/Собесы/Python",
-    "Programming/Собесы/Общая инфа"
+    "_Assets/Resourse/Pasted image 20241029060052.png"
   ]
 }
